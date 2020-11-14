@@ -6,8 +6,7 @@ node_js:
   - 10
   
 script:
-  - npm innstal
-  - npm start
+  - yarn test
 
 cache:
   yarn: true
